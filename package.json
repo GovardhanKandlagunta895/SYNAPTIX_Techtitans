@@ -8,7 +8,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
+<<<<<<< HEAD
     "lint": "tsc --noEmit"
+=======
+    "lint": "tsc --noEmit",
+    "start": "node server.ts"
+>>>>>>> a85f3bb77bdc99b5f772285df2d20d72dcea38a3
   },
   "dependencies": {
     "@google/genai": "^1.29.0",

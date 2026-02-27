@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 @import "tailwindcss";
 
@@ -14,3 +15,6 @@
 .glass {
   @apply bg-white/80 backdrop-blur-md border border-white/20;
 }
+=======
+Not found
+>>>>>>> a85f3bb77bdc99b5f772285df2d20d72dcea38a3
